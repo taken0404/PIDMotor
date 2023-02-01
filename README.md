@@ -1,2 +1,2 @@
 # PIDMotor
-Arduino library for communicating and controlling DC motors using PID control loops
+Arduino library for communicating and controlling DC motors with encoders using PID control loops
